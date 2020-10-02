@@ -15,7 +15,7 @@ limitations under the License.
 */
 package main
 
-import "devutils/cmd"
+import "github.com/PatrikOlin/devutils/cmd"
 
 func main() {
 	cmd.Execute()
